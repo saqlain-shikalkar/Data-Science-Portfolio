@@ -1,40 +1,44 @@
-# 📊 Sales Dashboard Project
+
+# 📊 Sales Dashboard (Excel)
 
 ## 📌 Project Overview
-
-This project presents an **interactive Sales Dashboard** built using **Excel and Power BI** to analyze business performance across multiple dimensions such as sales, profit, quantity, region, and category.
-
-The dashboard helps stakeholders quickly understand trends, identify high-performing areas, and make data-driven decisions.
+This project analyzes sales performance using Microsoft Excel through interactive dashboards and KPI tracking.  
+It helps understand business trends, regional performance, and category-wise contribution.
 
 ---
 
-## 🛠 Tools & Technologies Used
+## 🚀 Features
+- Sales by Region and Category  
+- Monthly Sales Trend Analysis  
+- Interactive Slicers for filtering  
+- KPI Metrics (Total Sales, Profit, Quantity)
 
-* **Microsoft Excel** – Data cleaning, KPI creation, and initial analysis
-* **Power BI** – Interactive dashboards and visual analytics
-* **VS Code** – Project organization and version control
-* **Git & GitHub** – Version management and portfolio hosting
+---
+
+## 🛠 Tools Used
+- Microsoft Excel  
+- Pivot Tables  
+- Charts & Slicers  
 
 ---
 
-## 📁 Project Structure
-
-```
-Data-Science-Portfolio/
-│
-├── Excel_Project/
-│   └── Sales_KPI_Dashboard.xlsx
-│
-├── PowerBI_Project/
-│   └── Sales_Dashboard.pbix
-│
-├── assets/
-│   └── dashboard_preview.png
-│
-└── README.md
-```
+## 📈 Business Insights
+- Identified top-performing regions  
+- Analyzed product category contribution  
+- Tracked monthly revenue growth  
+- Improved data-driven decision-making  
 
 ---
+
+## 📁 File Included
+- `Sales_KPI_Dashboard.xlsx`
+
+---
+
+## 👤 Author
+**Saqlain Shikalkar**  
+Data Analyst | Excel | Power BI | SQL
+
 
 ## 📊 Key Features
 
@@ -98,20 +102,3 @@ The dataset includes:
 * Add YoY growth comparison
 * Integrate SQL data source
 * Publish dashboard to Power BI Service
-
----
-
-## 👤 Author
-
-**Saqlain Shikalkar**
-Data Analyst | Power BI | Excel | SQL
-
----
-
-## ⭐ If you like this project
-
-Give it a ⭐ on GitHub and feel free to fork!
-
----
-
-📌 *This project is part of my Data Analytics portfolio.*
