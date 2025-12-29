@@ -3,8 +3,6 @@ implementing CRUD operations, joins, subqueries,
 stored procedures, triggers, and analytical queries for real-time business insights
 
 
-
-
 CREATE TABLE inventory (
     product_id INT AUTO_INCREMENT PRIMARY KEY,
     product_name VARCHAR(100),
