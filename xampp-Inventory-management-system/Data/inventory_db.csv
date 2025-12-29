@@ -1,0 +1,155 @@
+customer_id,name,email,,,,
+product_id,product_name,category,stock,price,supplier_id,supplier
+1,Wireless Mouse,Electronics,100,799,1,NULL
+2,Keyboard,Electronics,80,1299,1,NULL
+3,Laptop,Electronics,40,55000,2,NULL
+4,Printer,Electronics,25,12000,3,NULL
+79,Wireless Mouse,Electronics,100,799,1,NULL
+80,Gaming Laptop,Electronics,20,85000,4,NULL
+81,Laptop,Electronics,25,55000,NULL,Dell
+82,Mouse,Accessories,120,500,NULL,Logitech
+83,Keyboard,Accessories,80,1200,NULL,HP
+84,Monitor,Electronics,40,15000,NULL,Samsung
+85,Printer,Electronics,15,18000,NULL,Canon
+86,Laptop Pro 14,Electronics,45,85000,NULL,Dell
+87,Wireless Mouse,Electronics,120,799,NULL,Logitech
+88,Keyboard Mechanical,Electronics,80,2999,NULL,Redragon
+89,Monitor 24 Inch,Electronics,35,12500,NULL,Samsung
+90,USB-C Cable,Accessories,200,399,NULL,Anker
+91,Power Bank 20000mAh,Accessories,90,1999,NULL,Mi
+92,Office Chair,Furniture,25,6500,NULL,Godrej
+93,Study Table,Furniture,18,8500,NULL,Ikea
+94,Notebook A4,Stationery,300,120,NULL,Classmate
+95,Pen Blue,Stationery,500,10,NULL,Reynolds
+96,Printer Laser,Electronics,20,14500,NULL,HP
+97,Scanner,Electronics,15,9800,NULL,Canon
+98,Router WiFi,Electronics,40,2200,NULL,TP-Link
+99,External HDD 1TB,Electronics,30,5500,NULL,Seagate
+100,SSD 512GB,Electronics,28,6200,NULL,Samsung
+101,Smartphone X,Electronics,50,32000,NULL,Samsung
+102,Tablet 10 inch,Electronics,22,28000,NULL,Lenovo
+103,Desk Lamp,Furniture,40,1200,NULL,Philips
+104,Whiteboard,Furniture,10,3500,NULL,Camlin
+105,Office Sofa,Furniture,5,22000,NULL,Durian
+106,Marker Pen,Stationery,400,30,NULL,Camlin
+107,Stapler,Stationery,150,120,NULL,Kangaro
+108,File Folder,Stationery,250,60,NULL,Solo
+109,Paper Ream,Stationery,180,350,NULL,JK Paper
+110,Calculator,Electronics,70,650,NULL,Casio
+111,Projector,Electronics,10,42000,NULL,Epson
+112,Conference Mic,Electronics,12,7800,NULL,Boya
+113,Headphones,Electronics,65,2500,NULL,Boat
+114,Webcam HD,Electronics,55,1800,NULL,Logitech
+115,Smart Watch,Electronics,45,4500,NULL,Noise
+116,Chair Cushion,Furniture,60,900,NULL,AmazonBasics
+117,Bookshelf,Furniture,12,7600,NULL,Ikea
+118,Drawer Cabinet,Furniture,8,10500,NULL,Godrej
+119,Wall Clock,Furniture,35,900,NULL,Ajanta
+120,Water Bottle,Accessories,150,450,NULL,Milton
+121,Laptop Bag,Accessories,85,1600,NULL,American Tourister
+122,HDMI Cable,Accessories,120,350,NULL,Belkin
+123,Mouse Pad,Accessories,200,150,NULL,Cosmic Byte
+124,USB Hub,Accessories,90,950,NULL,TP-Link
+125,Power Strip,Accessories,110,1200,NULL,GM
+126,Cleaning Spray,Office Supplies,140,220,NULL,Colin
+127,Tissue Box,Office Supplies,200,90,NULL,Origami
+128,Hand Sanitizer,Office Supplies,180,110,NULL,Dettol
+129,Trash Bin,Office Supplies,60,650,NULL,Cello
+130,Mop Set,Office Supplies,45,1250,NULL,Gala
+131,Label Printer,Electronics,15,9200,NULL,Brother
+132,Barcode Scanner,Electronics,18,6700,NULL,Honeywell
+133,POS Machine,Electronics,10,28500,NULL,Epson
+134,Cash Drawer,Electronics,14,4800,NULL,TVS
+135,Filing Cabinet,Furniture,9,14500,NULL,Godrej
+136,Desk Organizer,Stationery,160,220,NULL,AmazonBasics
+137,Sticky Notes,Stationery,300,90,NULL,3M
+138,Paper Clips,Stationery,500,40,NULL,Kangaro
+139,Envelope Pack,Stationery,280,150,NULL,JK
+140,Tablet Stand,Accessories,95,780,NULL,Portronics
+141,Phone Holder,Accessories,110,650,NULL,Spigen
+142,Bluetooth Speaker,Electronics,55,3200,NULL,JBL
+143,UPS Backup,Electronics,12,9500,NULL,APC
+144,Network Switch,Electronics,18,5600,NULL,D-Link
+145,Server Rack,Electronics,5,45000,NULL,NetRack
+146,Ethernet Cable,Accessories,200,180,NULL,D-Link
+147,SSD 1TB,Electronics,20,9800,NULL,WD
+148,Graphics Card,Electronics,8,42000,NULL,NVIDIA
+149,CPU Processor,Electronics,10,29000,NULL,Intel
+150,Printer Ink,Electronics,70,1200,NULL,HP
+151,Toner Cartridge,Electronics,45,3800,NULL,Canon
+152,Monitor Stand,Accessories,55,2100,NULL,AmazonBasics
+153,Foot Rest,Furniture,30,1800,NULL,Ergo
+154,Keyboard Wireless,Electronics,75,2200,NULL,Logitech
+155,Gaming Laptop,Electronics,25,95000,NULL,Asus
+156,Office Laptop,Electronics,40,65000,NULL,HP
+157,Mini PC,Electronics,18,42000,NULL,Intel
+158,Graphics Tablet,Electronics,22,7800,NULL,Wacom
+159,Wireless Keyboard,Electronics,75,1800,NULL,Logitech
+160,Smart LED TV,Electronics,20,52000,NULL,Sony
+161,Bluetooth Earbuds,Electronics,65,3200,NULL,Boat
+162,Noise Cancelling Headphones,Electronics,30,8500,NULL,Sony
+163,Gaming Mouse,Electronics,90,2200,NULL,Razer
+164,USB Microphone,Electronics,35,4500,NULL,Blue
+165,Office Desk,Furniture,15,15000,NULL,Ikea
+166,Conference Table,Furniture,6,45000,NULL,Godrej
+167,Executive Chair,Furniture,20,18000,NULL,Featherlite
+168,Wooden Cabinet,Furniture,12,22000,NULL,Nilkamal
+169,Bookshelf Large,Furniture,10,16000,NULL,Ikea
+170,Reception Sofa,Furniture,5,38000,NULL,Durian
+171,Drawer Unit,Furniture,18,9500,NULL,Godrej
+172,Standing Desk,Furniture,8,32000,NULL,FlexiSpot
+173,Visitor Chair,Furniture,45,4500,NULL,Nilkamal
+174,Meeting Table,Furniture,7,40000,NULL,Ikea
+175,Printer Paper A4,Stationery,300,280,NULL,JK Paper
+176,Color Paper Pack,Stationery,180,320,NULL,Paperkraft
+177,Sticky Notes Large,Stationery,250,180,NULL,3M
+178,Pen Set,Stationery,400,150,NULL,Cello
+179,Highlighter Set,Stationery,140,240,NULL,Faber-Castell
+180,Office Scissors,Stationery,120,120,NULL,Kangaro
+181,File Organizer,Stationery,160,360,NULL,Solo
+182,Paper Clips Box,Stationery,300,90,NULL,Kangaro
+183,Notebook Spiral,Stationery,200,110,NULL,Classmate
+184,Stapler Heavy Duty,Stationery,80,350,NULL,Kangaro
+185,Water Dispenser,Appliances,12,11500,NULL,Voltas
+186,Microwave Oven,Appliances,10,18000,NULL,LG
+187,Air Purifier,Appliances,9,21000,NULL,Philips
+188,Vacuum Cleaner,Appliances,14,13500,NULL,Eureka Forbes
+189,Refrigerator Mini,Appliances,8,24000,NULL,Samsung
+190,Air Conditioner,Appliances,6,42000,NULL,Daikin
+191,Electric Kettle,Appliances,35,1800,NULL,Prestige
+192,Coffee Maker,Appliances,20,6500,NULL,Morphy Richards
+193,Induction Cooktop,Appliances,28,3200,NULL,Prestige
+194,Room Heater,Appliances,22,2800,NULL,Bajaj
+195,Laptop Backpack,Accessories,90,2200,NULL,Wildcraft
+196,Travel Adapter,Accessories,130,850,NULL,Portronics
+197,Wireless Charger,Accessories,60,1500,NULL,Spigen
+198,USB Extension,Accessories,170,350,NULL,Belkin
+199,Screen Cleaner,Accessories,200,180,NULL,3M
+200,Mobile Stand,Accessories,150,300,NULL,Amkette
+201,Camera Tripod,Accessories,45,2500,NULL,Digitek
+202,Hard Disk Case,Accessories,70,650,NULL,Orico
+203,Cable Organizer,Accessories,190,220,NULL,AmazonBasics
+204,Laptop Cooling Pad,Accessories,55,1700,NULL,Zebronics
+205,Security Camera,Electronics,25,4800,NULL,CP Plus
+206,Biometric Scanner,Electronics,18,6200,NULL,eSSL
+207,POS Printer,Electronics,12,8900,NULL,TVS
+208,Barcode Printer,Electronics,10,14500,NULL,TSC
+209,Time Attendance Machine,Electronics,14,7300,NULL,ZKTeco
+210,Network Router,Electronics,28,3600,NULL,TP-Link
+211,WiFi Extender,Electronics,35,2800,NULL,Netgear
+212,Smart Plug,Electronics,60,1200,NULL,Wipro
+213,Digital Clock,Electronics,40,950,NULL,Ajanta
+214,Surge Protector,Electronics,55,2100,NULL,Belkin
+order_id,customer_id,order_date,,,,
+order_item_id,order_id,product_id,quantity,price,,
+product_id,product_name,category,price,stock,,
+supplier_id,supplier_name,contact_email,phone,city,,
+1,Logitech,contact@logitech.com,9876543210,Mumbai,,
+2,Dell,sales@dell.com,9876500000,Bangalore,,
+3,HP,info@hp.com,9123456780,Pune,,
+4,Asus,support@asus.com,9988776655,Delhi,,
+5,Dell,support@dell.com,9876543210,Bangalore,,
+6,Logitech,support@logitech.com,9876501234,Pune,,
+7,HP,support@hp.com,9876512345,Chennai,,
+8,Samsung,support@samsung.com,9876598765,Delhi,,
+9,Canon,support@canon.com,9876549876,Mumbai,,
